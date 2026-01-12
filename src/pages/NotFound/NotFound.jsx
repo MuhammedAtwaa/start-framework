@@ -1,7 +1,7 @@
 import Footer from "../../components/Footer/Footer";
 import Navbar from "../../components/Navbar/Navbar";
 import PageHeading from "../../components/PageHeading/PageHeading";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 
 export default function NotFound() {
   return (
